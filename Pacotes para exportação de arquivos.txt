@@ -1,0 +1,7 @@
+
+"react-export-excel" ( biblioteca para estilização do Excel)
+ npm i react-data-export
+
+"xlsx" ( Salvar arquivos em Excel) 
+npm i file-saver
+
